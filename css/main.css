@@ -1,0 +1,7 @@
+
+*{margin: 0;padding: 0;}
+html,body{font-size: 12px;font-family: "Microsoft YaHei";}
+.nav{background: #000;opacity: 0.8;height: 30px;line-height: 30px;font-size: 1.2rem;}
+.nav a{color: #fff;text-decoration: none;}
+.homelink,.hellolink{margin: 10px;}
+.content{text-align: center;margin-top: 10px;}
